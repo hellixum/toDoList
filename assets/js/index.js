@@ -1,4 +1,5 @@
 let dataFetched = false; 
+fetchData(); 
 
 function fetchData() {
   if(dataFetched) return; 
@@ -13,7 +14,6 @@ function fetchData() {
   })
   .catch(err => console.log(err)); 
 }
-fetchData(); 
 
 
 // Add a "checked" symbol when clicking on a list item
