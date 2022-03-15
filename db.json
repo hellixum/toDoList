@@ -1,134 +1,148 @@
-[
-    {
-        "filtername" : "FITLER_01", 
-        "marketplaceId" : "01", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "01"
-    },
-    {
-        "filtername" : "FITLER_02", 
-        "marketplaceId" : "02", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "02"
-    },
-    {
-        "filtername" : "FITLER_03", 
-        "marketplaceId" : "03", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "03"
-    },
-    {
-        "filtername" : "FITLER_04", 
-        "marketplaceId" : "04", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "04"
-    },
-    {
-        "filtername" : "FITLER_05", 
-        "marketplaceId" : "05", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "05"
-    },
-    {
-        "filtername" : "FITLER_06", 
-        "marketplaceId" : "06", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "06"
-    },
-    {
-        "filtername" : "FITLER_07", 
-        "marketplaceId" : "07", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "07"
-    }
-    ,{
-        "filtername" : "FITLER_08", 
-        "marketplaceId" : "08", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "08"
-    }
-    ,{
-        "filtername" : "FITLER_09", 
-        "marketplaceId" : "09", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "09"
-    }
-    ,{
-        "filtername" : "FITLER_10", 
-        "marketplaceId" : "10", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "10"
-    }
-    ,{
-        "filtername" : "FITLER_11", 
-        "marketplaceId" : "11", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "11"
-    }
-    ,{
-        "filtername" : "FITLER_12", 
-        "marketplaceId" : "12", 
-        "status" : "UNDER_REVIEW", 
-        "complianceTriggerTime" : "NONE", 
-        "assignee" : "@sankalpq", 
-        "lastActor" : "@sankalpq", 
-        "lastActionTime" : "NONE", 
-        "comment" : "NONE", 
-        "markerplaceCountryCode": "12"
-    }
-]
+{
+                    "filterNameStatusList" : [
+                        {
+                            "filterName" : "FITLER_01", 
+                            "marketplaceId" : "01", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "01"
+                        },
+                        {
+                            "filterName" : "FITLER_02", 
+                            "marketplaceId" : "02", 
+                            "status" : "OTHER", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "02"
+                        },
+                        {
+                            "filterName" : "FITLER_03", 
+                            "marketplaceId" : "03", 
+                            "status" : "OTHER", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "03"
+                        },
+                        {
+                            "filterName" : "FITLER_04", 
+                            "marketplaceId" : "04", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "04"
+                        },
+                        {
+                            "filterName" : "FITLER_05", 
+                            "marketplaceId" : "05", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "05"
+                        },
+                        {
+                            "filterName" : "FITLER_06", 
+                            "marketplaceId" : "06", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "06"
+                        },
+                        {
+                            "filterName" : "FITLER_07", 
+                            "marketplaceId" : "07", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "07"
+                        }
+                        ,{
+                            "filterName" : "FITLER_08", 
+                            "marketplaceId" : "08", 
+                            "status" : "OTHER", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "08"
+                        }
+                        ,{
+                            "filterName" : "FITLER_09", 
+                            "marketplaceId" : "09", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "09"
+                        }
+                        ,{
+                            "filterName" : "FITLER_10", 
+                            "marketplaceId" : "10", 
+                            "status" : "UNDER_REVIEW", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "10"
+                        }
+                        ,{
+                            "filterName" : "FITLER_11", 
+                            "marketplaceId" : "11", 
+                            "status" : "OTHER", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "11"
+                        }
+                        ,{
+                            "filterName" : "FITLER_12", 
+                            "marketplaceId" : "12", 
+                            "status" : "OTHER", 
+                            "complianceTriggerTime" : "NONE",
+                            "complianceTriggerTimeDisplay" : "NONE", 
+                            "assignee" : "@sankalpq", 
+                            "lastActor" : "@sankalpq", 
+                            "lastActionTime" : "NONE", 
+                            "comment" : "NONE", 
+                            "marketplaceCountryCode": "12"
+                        }
+                    ]
+                }
